@@ -10,7 +10,7 @@ The objects emited through these events represent data records and have the foll
 ## Getting started
 To run this project locally:
 
-- Install Node.js( >= v16.13.1) and [nodemon][nodemon link] package
+- Install [Node.js](https://nodejs.org/en/download/)( >= v16.13.1), [npm](https://www.npmjs.com/) (>=8.1.2) and [nodemon][nodemon link] package
 - Move to the project root folder path
 - Run `npm install` to install the necessary dependencies 
 - Run `npm start` to serve in localhost:3000/
